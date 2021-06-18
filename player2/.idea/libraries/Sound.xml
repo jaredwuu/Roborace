@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sound">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Sounds&amp;Midi/Sound.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
